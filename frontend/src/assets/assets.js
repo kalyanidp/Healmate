@@ -242,7 +242,7 @@ export const doctors = [
     },
     {
         _id: 'doc12',
-        name: 'Dr. Patrick Harris',
+        name: 'Dr. Zoe Kelly',
         image: doc12,
         speciality: 'Neurologist',
         degree: 'MBBS',
